@@ -39,7 +39,7 @@ const About = () => (
         <h3>History on the Say Their Names Movement </h3>
         <p>
           Say Their Names is a social movement to raise awareness for all
-          the black victims of police brutality all around the world. This
+          the black victims of injustice and racial inequality all around the world. This
           movement is in response to the Black Lives Matter movement and aims to
           highlight Individuals affected by anti-Black Violence. Say Their Names
           movement calls attention and demands justice for all victims.
